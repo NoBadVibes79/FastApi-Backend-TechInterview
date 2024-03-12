@@ -33,3 +33,6 @@ typing-extensions==4.10.0
     #   pydantic-core
 uvicorn==0.28.0
     # via -r requirements.in
+
+aiosqlite
+mysql
